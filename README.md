@@ -1,0 +1,2 @@
+# first-code
+THIS IS MY FIRST GET REPOSITORY
